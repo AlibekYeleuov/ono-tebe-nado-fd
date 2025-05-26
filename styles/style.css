@@ -60,6 +60,7 @@
     font-size: 18px;
     gap: 4.5px;
     letter-spacing: 0;
+    font-style: normal;
 }
 
     /*//////////////////////////   cover-zone   ////////////////////////////////////*/
@@ -302,7 +303,7 @@
     text-decoration: none;
     text-underline-offset: 3.5px;
     line-height: 24px;
-
+    font-style: normal;
 }
 
 .footer__menu {
